@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+}
+.div1 {
+    position: fixed;
+    width: 28%;
+    height: 100%;
+    background-color: black;
+}
+.photo{
+    position: relative;
+    top: 13rem;
+    left: 5.5rem;
+}
+.img1{
+    width: 45%;
+    height: auto;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 0.5rem;
+    border-color: #333333;
+}
+
+.name{
+    position: relative;
+    color: #494949;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 4.5rem;
+    margin-right: -20rem;
+
+    bottom: 2rem;
+    left: 120%;
+}
+
+.info1{
+    position: relative;
+    color: #494949;
+    margin-right: -20rem;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.4rem;
+    bottom: 6.5rem;
+    left: 122%;
+}
+
+.info2{
+    position: relative;
+    color: #494949;
+    margin-right: -20rem;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 0.8rem;
+    bottom: 6.8rem;
+    left: 122%;
+}
+
+.contact{
+    position: absolute;
+    bottom: 1em;
+    margin-left: 30%;
+    
+}
+
+.home{
+    position: absolute;
+    bottom: 1em;
+    margin-left: 35%;
+
+}
+
+button {
+    background-color:transparent;
+	border-radius:42px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:17px 29px;
+	text-decoration:none;
+    
+}
+
+a{
+    color: #494949;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.logo{
+    position: relative;
+    color: #494949;
+    margin-right: -20rem;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 0.8rem;
+    bottom: 6.8rem;
+    left: 122%;
+}
+
+.github{
+    width: 3em;
+    height: auto;
+    margin-top: 0.5rem;
+}
+
+.instagram{
+    width: 3.2rem;
+    height: auto;
+    margin-bottom: -0.4rem;
+    margin-left: 0.5rem;
+}
+
+.fb{
+    width: 2.7rem;
+    height: auto;
+    margin-bottom: -0.1rem;
+    margin-left: 0.5rem;
+}
+
+.twitter{
+    width: 2.4rem;
+    height: auto;
+    margin-top: 0.2rem;
+    margin-left: 0.9rem; 
+}
